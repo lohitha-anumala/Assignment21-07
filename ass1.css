@@ -1,0 +1,21 @@
+.container-fluid{
+    background-color: rgba(28, 145, 199, 0.726);
+}
+
+.fa-child{
+     color: rgba(255, 196, 0, 0.966);
+     
+}
+.fa-desktop{
+    color: rgba(255, 196, 0, 0.966);
+    
+   
+}
+.fa-edit{
+    color: rgba(255, 196, 0, 0.966);
+
+}
+.fa-cogs{
+    color: rgba(255, 196, 0, 0.966);
+
+}
